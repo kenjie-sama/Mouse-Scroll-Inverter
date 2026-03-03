@@ -1,5 +1,3 @@
 <Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="app.ps1" />
-  </Folder>
+  <Project Path="Main.Sys/Main.Sys.csproj" Id="aa5c6425-3209-48a8-8330-a7ccd38ff8cf" />
 </Solution>
